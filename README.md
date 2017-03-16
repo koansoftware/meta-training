@@ -1,3 +1,3 @@
-(C)2016 KOAN sas - <http://koansoftware.com>
+(C)2016-2017 KOAN sas - <http://koansoftware.com>
 
 
